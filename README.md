@@ -1,5 +1,5 @@
 # Teste prático - Desenvolvedor FullStack
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Desenvolvedor Fullstack do Grupo Algoritme.
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Desenvolvedor Fullstack na SDE Incubator.
 
 ### Introdução
 Você deverá desenvolver uma aplicação onde o usuário possa visualizar as lançamentos do seu financeiro.
@@ -32,7 +32,7 @@ Você deverá desenvolver uma aplicação onde o usuário possa visualizar as la
 
 ### Processo de submissão
 - O Link do repositório deve ser enviado para os seguintes e-mails: 
-  - desenvolvimento@algoritme.com.br
+  - tech@sdeincubator.com.br
 
 
 ### Observação
