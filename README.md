@@ -32,7 +32,7 @@ Você deverá desenvolver uma aplicação onde o usuário possa visualizar as la
 
 ### Processo de submissão
 - O Link do repositório deve ser enviado para os seguintes e-mails: 
-  - tech@sdeincubator.com.br
+  - nikolas.bararua@sdeincubator.com.br
 
 
 ### Observação
