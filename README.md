@@ -15,7 +15,7 @@ Você deverá desenvolver uma aplicação onde o usuário possa visualizar as la
 ### Requisitos Técnicos
 - Deve ser utilizado React JS na criação da Aplicação WEB
 - Utilizar Git para versionamento do código
-- Utilizar **Firebase ou algum backend** para realizar login/cadastro, inserção/listagem.
+- Criar back-end em nodejs para os endpoints de login/cadastro, inserção/listagem.
 
 ### Requisitos Funcionais
 - O Usuário deve conseguir entrar e sair da sua conta ou se cadastrar.
@@ -32,7 +32,7 @@ Você deverá desenvolver uma aplicação onde o usuário possa visualizar as la
 
 ### Processo de submissão
 - O Link do repositório deve ser enviado para os seguintes e-mails: 
-  - nikolas.bararua@sdeincubator.com.br
+  - sdeincubator@gmail.com
 
 
 ### Observação
